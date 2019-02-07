@@ -1,0 +1,61 @@
+Command Line
+pwd (print working directory) - where you are currenlty at in your file system
+
+ls - "list stuff" - list of files in your current folder
+
+cd - changes the directory you're working in. 
+	EX: cd Desktop  will change the working directory to the Desktop
+
+mkdir - make directory
+
+clear - clears the screen
+
+nano is the command line text editor
+command: nano README.md
+
+# Top leveel heading
+## Secondary heading
+etc.
+
+cat - prints out contents of a file
+	ex: cat README.md
+
+git init - will start the folder in git and will track the history of this folder via git
+
+git status - 
+
+Add
+Commit
+Push 
+Are the three actions we'll be using in Git and GitHub
+
+Add - decide what files are going to be tracked
+Commit - solidifies the version you're doinggit
+Push - takes the history that you've made of the project that sends it to Git/GitHub
+
+git add FILENAME
+git status - tells us if it was successful or not - added file
+
+git commit -m "initial commit"
+
+-u makes the CV respository the default
+
+to get things from github:
+git pull
+OR
+git fetch - gets branche
+OR
+git clone - makes a local copy, doens't do updates/versioning
+
+man - stands for manual ie. documentation
+man git-clone
+
+git diff - shows the difference in the changes you made in a file
+
+Pandoc plugin to translate your markdown to translate to different output formats - pdfs, .doc files, etc.
+
+Sustainable authorship in plain text using pandoc and markdown in the programming historian.
+
+
+	
+
