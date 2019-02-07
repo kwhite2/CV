@@ -1,4 +1,4 @@
-# My CV
+# **My CV**
 
 ## Education
 
@@ -9,4 +9,9 @@ GPA 3.8
 
 "Visualizing Oral Histories," _College and Undergraduate Libraries_
 
+## Service
 
+- All the Committees All the Time
+- Whatever my boss wants
+
+[here is my website.](https://rulkwhite2.youcanbook.me)
